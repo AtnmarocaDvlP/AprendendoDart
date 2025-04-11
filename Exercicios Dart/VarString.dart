@@ -1,10 +1,10 @@
 void main(){
   
   String Nameone = "Antonio";
+  String Nametwo = " Pedro";
   
   print ("${Nameone} foi passear!");
     
-    Nameone = "Pedro";
   
   // funcoes para a String
   
@@ -25,14 +25,19 @@ void main(){
     // mostra o caracter relacionado a posicao do index 
   );
   print (
-    Nameone.indexOf("e")
+    Nametwo.indexOf("e")
     // Corresponde em posicao do index em relacao ao caracter digitado
   );
   print (
-    Nameone.contains("d")
+    Nametwo.contains("d")
     // escreve se a String Possui o Caracter escrito (true/false)
   );
+  print (
+    Nameone + Nametwo
+    // junta as duas variaveis
+  );
+
+} 
   
-  
-}
+
   
