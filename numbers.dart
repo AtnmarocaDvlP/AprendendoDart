@@ -1,3 +1,5 @@
+import "dart:math";
+
 void main (){
   
   int item1 = 300;
@@ -20,5 +22,15 @@ void main (){
   
     print(
       item2
+    );
+  
+    print(
+      min(10, 9) 
+      // imprime o menor numero entre eles (utiliza o (darth:math))
+    );
+    
+    print(
+      sqrt(144)
+       // imprime a raiz quadrada (utiliza o (darth:math))
     );
 }
