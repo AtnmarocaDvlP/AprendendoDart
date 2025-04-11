@@ -33,4 +33,8 @@ void main (){
       sqrt(144)
        // imprime a raiz quadrada (utiliza o (darth:math))
     );
+    print(
+      5 > 3
+      // imprime a comparacao e verdadeira ou falsa
+    );
 }
