@@ -7,6 +7,7 @@ import "dart:io";
     print("Qual e o seu nome?: ");
     String username = stdin.readLineSync() ?? "Desconhecido";
   print("Olá, ${username}!");
+// a maquina pede que escreva seu nome
     
     
   }
