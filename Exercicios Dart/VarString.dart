@@ -36,6 +36,9 @@ void main(){
     Nameone + Nametwo
     // junta as duas variaveis
   );
+  print(
+    " O nome daquele cara eh ${Nameone + Nametwo}"
+  );
 
 } 
   
