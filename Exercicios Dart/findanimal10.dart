@@ -21,3 +21,5 @@ void main(){
 
     
 }
+
+// estudar mais linha 4 a linha 8 nao entendi
