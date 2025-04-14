@@ -7,10 +7,11 @@ void main(){
     //   index positions   0. 1. 2. 3. 4.  
     
     // adicionar numeros a lista: RandNums.add(32);
+    // remover numeros da lista: RandNums.remove(32);
     RandNums[3] = 12;
     
     print(
-        RandNums[3] + RandNums[2]
+        RandNums[3] + RandNums[2] 
     );
     
     
