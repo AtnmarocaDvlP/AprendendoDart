@@ -3,10 +3,12 @@ import "dart:io";
 
 void main(){
     
-    if(false){
-        print("verdade");
+    bool honored = false;
+    
+    if(honored){
+        print("voce e o mais honrado. ");
     } else {
-        print("falso");
+        print("voce nao e especial. ");
     }
     
 }
