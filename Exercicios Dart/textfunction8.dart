@@ -14,3 +14,5 @@ void main(){
     print(" a cor que escolheu e ${cor} ");
     
 }
+
+// nao entendi direito, revisar depois!!!
