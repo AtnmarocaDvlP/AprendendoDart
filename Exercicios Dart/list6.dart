@@ -8,6 +8,7 @@ void main(){
     
     // adicionar numeros a lista: RandNums.add(32);
     // remover numeros da lista: RandNums.remove(32);
+    // localizar o numero dentro da lista: RandNums.indes0f(32);
     RandNums[3] = 12;
     
     print(
