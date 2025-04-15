@@ -50,6 +50,8 @@ void main(){
     } else {
         print("comando nao reconhecido");
     }
+
+    // execicio completo
     
     
 }
